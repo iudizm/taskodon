@@ -1,24 +1,11 @@
-# README
+# Taskodon!
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A very simple Task manager, i'm building this app to learn more about Hotwire and StimulusJS
 
-Things you may want to cover:
+![demo](/taskodon-example.png)
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+| Ruby version | 3.1.0 |
+|---|---|
+| Rails version | 7.0.2|
+|Database driver| SQLite |
