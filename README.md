@@ -1,5 +1,3 @@
-# Taskodon!
-
 A very simple Task manager, i'm building this app to learn more about Hotwire and StimulusJS
 
 ![demo](/taskodon-example.png)
